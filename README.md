@@ -50,7 +50,7 @@ This project combines **Facial Emotion Recognition** and an **AI-powered Chatbot
 
 This project was built by:
 
-- Arunprasad M 
+- Arunprasad M and Team
 
 
 ## 🌟 Future Scope
